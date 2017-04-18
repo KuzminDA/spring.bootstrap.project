@@ -1,0 +1,44 @@
+#side-menu{
+    background: #FFFAFA;
+    height: 100vh;
+    padding-top: 10px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.main-menu{
+     background: #F5F5F5;
+     height: 100vh;
+}
+
+#main-menu{
+    background: #F5F5F5;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 100vh;
+}
+
+#login-panel{
+    margin-top: 40px;
+    width: 400px;
+}
+
+.form-add{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-edit{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-form-block{
+    margin-top: 7px;
+}
+
+.btn-margin-top{
+    margin-top: 7px;
+}
