@@ -84,7 +84,7 @@ public class UserController {
         try {
             userService.editUser(user);
         } catch (Exception exp) {
-            return "redirect:/admin";
+            
         }
         return "redirect:/admin";
     }
